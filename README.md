@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tatiana
-- 👀 I’m interested in Data Science, Python and R
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science
 
 <!---
 Ginger9307/Ginger9307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
